@@ -1,5 +1,4 @@
-# 3D_repo
-Estado del arte para GIS 3D
+# Estado del arte para GIS 3D
 
 ## 3D Tiles Standard
 [Especificación OGC sobre 3D tiles](https://docs.ogc.org/cs/22-025r4/22-025r4.html#toc12)
