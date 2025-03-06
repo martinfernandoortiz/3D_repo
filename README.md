@@ -8,7 +8,7 @@
 [Itowns3DTiles](https://github.com/VCityTeam/UD-SV/blob/master/ImplementationKnowHow/iTowns3Dtiles.md)
 
 ## BIM
-(Understanding the object placement and geometry in IFC)[https://github.com/VCityTeam/py3dtilers/blob/master/py3dtilers/IfcTiler/IFC_Geometry.md]
+[Understanding the object placement and geometry in IFC](https://github.com/VCityTeam/py3dtilers/blob/master/py3dtilers/IfcTiler/IFC_Geometry.md)
 
 [BIM Data](https://developers.bimdata.io/viewer/#introduction)
 
