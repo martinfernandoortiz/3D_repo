@@ -12,6 +12,8 @@
 
 [BIM Data](https://developers.bimdata.io/viewer/#introduction)
 
+[IFC Open Shell](https://ifcopenshell.org/)
+
 ## Mesh
 
 ## Point Cloud
